@@ -1,0 +1,9 @@
+.uppercard {
+  display: flex;
+  justify-content: space-between;
+  width: 362.8px;
+  height: 49px;
+  border-radius: 20px;
+  background: #eff0f6;
+  color: #0000;
+}

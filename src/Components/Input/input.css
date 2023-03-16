@@ -1,0 +1,22 @@
+.input-img {
+  position: absolute;
+  top: 5%;
+  left: 38%;
+}
+
+input {
+  position: relative;
+  border: 1px solid rgb(200, 195, 195);
+  border-radius: 18px;
+  outline: rgb(159, 152, 152);
+  background: transparent;
+  padding-left: 20px;
+  height: 35px;
+  width: 36vw;
+}
+
+::placeholder {
+  padding-left: 20px;
+  font-size: 12px;
+  color: #9999;
+}
